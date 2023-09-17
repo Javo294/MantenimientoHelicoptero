@@ -58,7 +58,7 @@ public class VistaPrincipal extends JFrame {
 		
 		JButton btnRevision = new JButton("Revisión");
 		btnRevision.setFont(new Font("Tahoma", Font.PLAIN, 15));
-		btnRevision.setBounds(283, 318, 102, 41);
+		btnRevision.setBounds(284, 318, 102, 41);
 		panel.add(btnRevision);
 		
 		JButton btnDespegar = new JButton("Despegar");
