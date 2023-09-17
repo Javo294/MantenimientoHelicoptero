@@ -1,1 +1,1 @@
-# Cambie el branch a "Acuerdo"
+# Cambie el branch de "main" a "acuerdo"
